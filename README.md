@@ -6,3 +6,6 @@ List of AWS Credentials earned.
   <a href="https://www.credly.com/badges/822364d3-d69f-41b9-81a1-3913049a4048/public_url" target="blank"><img align="center" src="https://images.credly.com/size/220x220/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWSCloudOps" height="130" width="130" /></a>
 
 <a href="https://www.credly.com/badges/4352eb6b-af24-4f30-9412-14405f10d024/public_url" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWSCloudOps" height="130" width="130" /></a>
+
+
+<a href="https://www.credly.com/badges/73b05ccb-ee13-456d-ad02-6a8a238ed90c/public_url" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" alt="AWSCloudOps" height="130" width="130" /></a>
