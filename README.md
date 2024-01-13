@@ -1,4 +1,4 @@
 # AWS_Expertise by Gyanapriya Pradhan
 List of AWS Credentials earned. 
 
-[![AWS Badge](https://www.credly.com/badges/b44c1504-725a-4399-b98f-f15e821300ef/public_url)](https://www.credly.com/badges/b44c1504-725a-4399-b98f-f15e821300ef/public_url)
+<p align="left"> <a href="https://www.credly.com/badges/b44c1504-725a-4399-b98f-f15e821300ef/public_url" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" alt="AWSCloudOps" height="130" width="130" /></a>        <a href="https://www.credly.com/badges/1daf6db7-1d3f-4e5f-9f43-b5663bf5f11b/public_url" target="blank"><img align="center" src="[https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="Gyanapriya pradhan](https://images.credly.com/size/680x680/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.pnghttps://images.credly.com/size/680x680/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" height="130" width="130" /></a>
