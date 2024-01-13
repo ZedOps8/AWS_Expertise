@@ -1,9 +1,9 @@
 # AWS_Expertise by Gyanapriya Pradhan
 List of AWS Credentials earned. 
 
-<p align="left"> <a href="https://aws.amazon.com/training/awsacademy/" target="blank"><img align="center" src="https://d1.awsstatic.com/Digital%20Marketing/Display/campaigns/aws%20academy%20logo.6664a0fe4a9dc172659b1af0b1830a5f7dc7ed91.png" alt="AWSCloudOps" height="80" width="300" /></a>
+<p align="left"> <a href="https://aws.amazon.com/training/awsacademy/" target="blank"><img align="center" src="https://d1.awsstatic.com/Digital%20Marketing/Display/campaigns/aws%20academy%20logo.6664a0fe4a9dc172659b1af0b1830a5f7dc7ed91.png" alt="AWSCloudOps" height="60" width="300" /></a>
 
-<p align="left"> <a href="https://www.credly.com/badges/86f55355-cd45-4494-acf2-de6e5a5260aa/public_url" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWSCloudOps" height="130" width="130" /></a>
+<p align="left"> <a href="https://www.credly.com/badges/86f55355-cd45-4494-acf2-de6e5a5260aa/public_url" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWSCloudOps" height="130" width="130" /></a> <a href="https://www.credly.com/badges/7ac8cdce-2db3-41d2-abc6-3e6439bd0971/public_url" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="AWSCloudOps" height="130" width="130" /></a>
 
 
 <p align="left"> <a href="https://aws.amazon.com/education/awseducate/" target="blank"><img align="center" src="https://d1.awsstatic.com/WWPS/AWS_Educate_Logo2.914df33100523a7d60c9c897d79d1cec23cc7e0c.png" alt="AWSCloudOps" height="80" width="300" /></a> 
